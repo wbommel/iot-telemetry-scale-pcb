@@ -1,5 +1,3 @@
-# iot-telemetry-scale-pcb
-
 # IoT Telemetry Scale – PCB Design
 
 This repository contains the KiCAD design files for the custom PCB used in the **IoT Telemetry Scale** project – a modular, networked weighing solution originally built to monitor the weights of budgies in an aviary. 🐦📡
